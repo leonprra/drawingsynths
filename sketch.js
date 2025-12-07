@@ -58,7 +58,7 @@ const pitchMap = {
 
 function setup() {
   textFont('"Press Start 2P"')
-  createCanvas(900, 600);
+  createCanvas(600, 400);
   noCursor();
 
   // Drawing box dimensions
